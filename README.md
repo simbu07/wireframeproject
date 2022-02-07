@@ -12,7 +12,9 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+![git log](j1.png)
+![git log](AboutUs.png)
+![git log](Gallery.png)
 
 
 ## Result:
